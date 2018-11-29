@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+*.pyc
+data/
+var
+imdb_data
