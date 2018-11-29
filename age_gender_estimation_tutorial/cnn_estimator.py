@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-from medium_age_estimation_tutorial.cnn_model import network
+from age_gender_estimation_tutorial.cnn_model import network
 
 
 def model_fn(features, labels, mode, params):

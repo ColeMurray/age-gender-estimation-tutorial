@@ -2,8 +2,8 @@ import argparse
 
 import tensorflow as tf
 
-from medium_age_estimation_tutorial.cnn_estimator import model_fn, serving_fn
-from medium_age_estimation_tutorial.dataset import csv_record_input_fn
+from age_gender_estimation_tutorial.cnn_estimator import model_fn, serving_fn
+from age_gender_estimation_tutorial.dataset import csv_record_input_fn
 
 tf.logging.set_verbosity(tf.logging.INFO)
 
