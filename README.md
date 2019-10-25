@@ -4,7 +4,7 @@ https://medium.freecodecamp.org/how-to-build-an-age-and-gender-multi-task-predic
 
 
 ### Pulling the image
-docker pull -t colemurray/age-gender-estimation-tutorial 
+docker pull colemurray/age-gender-estimation-tutorial 
 
 ### Building the image
 ```
